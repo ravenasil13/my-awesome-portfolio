@@ -1,0 +1,58 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    line-height:25px;
+    background-color: #FAEBD7;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.topnav #myLinks {
+    display:none;
+}
+
+
+#h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 500px;
+    padding-left:50px;
+    padding-top:20pxs;
+    ;
+}
+
+p{
+    padding-right: 50px;
+}
+
+nav{
+    font-family: 'Bebas Neue', cursive;
+    font-size:22px;
+    he
+}
+
+#myphoto{
+    padding-left:50px;
+
+}
+
+#portfolio{
+    position: relative;
+    width: 100%;
+    min-height:1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+@media screen and (max-width: 768px) {
+    /* The body's bg color will be #333 */
+    body {
+        background-color: #333;
+    }
+
+    .wrapper{
+        width: 60px;
+    }
+
+
+}
